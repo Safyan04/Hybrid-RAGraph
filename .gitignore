@@ -1,0 +1,6 @@
+.env
+.hybr/
+hyb/
+__pycache__/
+uploaded.pdf
+abc.py

@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+langchain
+langchain-core
+langchain-classic
+langchain-community
+langchain-groq
+langchain-google-genai
+langgraph
+rank_bm25
+numexpr
+ddgs
+pypdf
