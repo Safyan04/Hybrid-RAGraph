@@ -1,8 +1,10 @@
+chromadb
 streamlit
 python-dotenv
 langchain
 langchain-core
 langchain-classic
+langchain-chroma
 langchain-community
 langchain-groq
 langchain-google-genai
